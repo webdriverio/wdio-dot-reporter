@@ -1,6 +1,8 @@
 WDIO Dot Reporter
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/webdriverio/wdio-dot-reporter.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/webdriverio/wdio-dot-reporter.svg?branch=master)](https://travis-ci.org/webdriverio/wdio-dot-reporter) [![Code Climate](https://codeclimate.com/github/webdriverio/wdio-dot-reporter/badges/gpa.svg)](https://codeclimate.com/github/webdriverio/wdio-dot-reporter) [![Test Coverage](https://codeclimate.com/github/webdriverio/wdio-dot-reporter/badges/coverage.svg)](https://codeclimate.com/github/webdriverio/wdio-dot-reporter/coverage) [![dependencies Status](https://david-dm.org/webdriverio/wdio-dot-reporter/status.svg)](https://david-dm.org/webdriverio/wdio-dot-reporter)
 
 ***
